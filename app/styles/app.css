@@ -1,0 +1,48 @@
+
+
+body { 
+	padding-top: 70px; 
+	background-image: "assets/images/Grocery-background1.jpg";
+}
+
+.form-signin {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+	margin-bottom: 10px;
+}
+
+.form-signin .form-control {
+	position: relative;
+	height: auto;
+	-webkit-box-sizing: border-box;
+		 -moz-box-sizing: border-box;
+		      box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-contact-new {
+	background-image: url('/assets/images/Grocery-background1.jpg');
+}
+
+.form-contact-new table {
+	border-spacing: 2px;
+	background-color: black;
+}
+
+.form-contact-new td {
+	color: #ffffff;
+}
+
+.form-contact-new-form {
+	text-align:center;
+}
+
+.form-contact-new-form input {
+	color: black;
+}
