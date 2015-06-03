@@ -1,10 +1,10 @@
 /* jshint node: true */
+/* contentSecurityPolicy: { 'connect-src': "'self' wss://*.firebaseio.com" }, */
 
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'scannibal',
     environment: environment,
-    contentSecurityPolicy: { 'connect-src': "'self' wss://*.firebaseio.com" },
     firebase: 'https://scannibal.firebaseio.com/',
     baseURL: '/',
     locationType: 'auto',
